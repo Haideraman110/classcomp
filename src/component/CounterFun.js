@@ -3,7 +3,6 @@ import React, { useState } from 'react'
 const CounterFun = () => {
     const [counter, setCounter] = useState(0)
 
-
     return (
         <>
             <div style={{textAlign:'center'}}>
